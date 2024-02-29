@@ -7,8 +7,9 @@
 <h2 align="center">📋About📋</h2>
 
 <p align="center">
-  ![App screenshot](./assets/screenshot.png)
+  <img src="./assets/screenshot.png" width="360" height="780">
 </p>
+
 
 This basic weather app shows one-word weather description, average temperature, pressure, humidity, and wind speed for the current date.
 
